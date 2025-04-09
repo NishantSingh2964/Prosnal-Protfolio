@@ -461,13 +461,20 @@ nav .fas{
 
     /* for header section */
     #header{
-        background-image: url(images/phone-background.png);
+        background-color: white;
+    }
+
+    .logo{
+        width: 150px;
+        color: #ff004f;
     }
 
     .header-text{
         margin-top: 20%;
         font-size: 16px;
+        background-color: var(--primary-color);
     }
+
 
     .header-text h1{
         font-size: 30px;
@@ -476,10 +483,11 @@ nav .fas{
     nav .fas{
         display: block;
         font-size: 25px;
+        margin-right: 10px;
     }
     nav .fas{
         flex: 1;
-        margin-left: 10px;
+        margin-left: 5px;
         text-align: right;
     }
 
@@ -537,3 +545,12 @@ nav .fas{
     margin-top: -40px;
     display: block;
 }
+
+
+
+
+
+
+
+
+

@@ -9,7 +9,7 @@ A clean and responsive **Personal Portfolio Website** built using **HTML**, **CS
 - 🎯 Modern and responsive design
 - 🧑‍💼 About Me section with professional details
 - 💼 Projects section showcasing personal or professional work
-- 📜 Resume download button (optional)
+- 📜 Resume download button 
 - 📫 Contact form with validation
 - 🎨 Smooth animations and transitions
 - 📱 Mobile-friendly layout
